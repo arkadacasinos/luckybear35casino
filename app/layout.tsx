@@ -8,6 +8,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="r7x4-html">
       <head>
+        <meta name="yandex-verification" content="27bdc400317b941f" />
         <title>LuckyBear Casino официальный сайт — Lucky Bear Casino зеркало | Лаки Бир Казино</title>
         <meta
           name="description"
