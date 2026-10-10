@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luckybear35casino.vercel.app/sitemap.xml
